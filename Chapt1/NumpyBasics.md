@@ -92,5 +92,8 @@ numpy.arange는 list comprehension for loop range랑 똑같다.
 - cumsum() : 원소의 누적합의 배열을 반환.
 - cumprod() : 원소의 누적곱의 배열을 반환. 일정기준이상으로 커지면 Overflow로 0을 반환
 - percentile(param=array_like, param=array_like of float(0~100) , axis= int, tuple of int ... )
-  : 
+  : 특정 axis에 해당하는 data중 param=array_like of float(0~100)만큼의 백분위수를 반환한다.
+  Tuple로 묶으면 지정된 축을 따라 독립적으로 계산을 수행함.
+
+
 
