@@ -3,6 +3,7 @@
     <option name="myName" value="Project Default" />
     <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
       <Languages>
+<<<<<<< HEAD
         <language minSize="82" name="Python" />
       </Languages>
     </inspection_tool>
@@ -21,6 +22,11 @@
         </list>
       </option>
     </inspection_tool>
+=======
+        <language minSize="63" name="Python" />
+      </Languages>
+    </inspection_tool>
+>>>>>>> 26935215348ecb363859da6a56a04386b561877f
     <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredIdentifiers">
         <list>
